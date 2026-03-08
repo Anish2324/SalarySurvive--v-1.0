@@ -1,0 +1,62 @@
+# ========================
+# Backend - Maven / Spring
+# ========================
+Backend/target/
+Backend/.mvn/wrapper/maven-wrapper.jar
+Backend/.apt_generated
+Backend/.classpath
+Backend/.factorypath
+Backend/.project
+Backend/.settings
+Backend/.springBeans
+Backend/.sts4-cache
+Backend/HELP.md
+
+# IMPORTANT: application.properties contains DB credentials & JWT secret
+Backend/src/main/resources/application.properties
+
+# IntelliJ / Eclipse
+.idea/
+*.iws
+*.iml
+*.ipr
+*.classpath
+*.project
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# ========================
+# Frontend - Node / Vite
+# ========================
+Frontend/node_modules/
+Frontend/dist/
+Frontend/dist-ssr/
+Frontend/*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ========================
+# OS & Editor
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

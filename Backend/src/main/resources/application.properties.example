@@ -1,0 +1,20 @@
+spring.application.name=Salary Survive
+
+# PostgreSQL Database
+spring.datasource.url=jdbc:postgresql://localhost:5432/salary_survival
+spring.datasource.username=YOUR_DB_USERNAME
+spring.datasource.password=YOUR_DB_PASSWORD
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+server.port=8080
+
+# JWT
+jwt.secret=YOUR_JWT_SECRET_KEY_AT_LEAST_32_CHARS_LONG
+jwt.expiration=900000
+# Access token expires in 15 minutes (900000 ms)
+
+jwt.refresh-expiration=604800000
+# Refresh token expires in 7 days (604800000 ms)
