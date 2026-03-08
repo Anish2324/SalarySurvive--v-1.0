@@ -7,15 +7,38 @@ A full-stack personal finance web application that helps you **track your salary
 ---
 
 ## Screenshots
+ ## 1. Register (Dark themed)
+ <img width="632" height="871" alt="image" src="https://github.com/user-attachments/assets/bcbfc867-17f2-4609-a9c7-59f0c3457e17" />
 
-<!-- TODO: Add screenshots here -->
-<!-- Example usage:
-![Dashboard](screenshots/dashboard.png)
-![Expenses](screenshots/expenses.png)
-![Budget](screenshots/budget.png)
--->
+ ## 2. Login 
+ <img width="1148" height="866" alt="image" src="https://github.com/user-attachments/assets/5df44ae6-c70e-4c18-aa63-1dd1933dff41" />
 
-> Screenshots coming soon.
+## 3. User Guide of different color patterns/values
+<img width="1900" height="904" alt="image" src="https://github.com/user-attachments/assets/67a639b7-2ce0-4325-ba5d-ab48a894ec50" />
+
+## 4. Financial Dashboard
+<img width="1902" height="915" alt="image" src="https://github.com/user-attachments/assets/93afcde5-eea0-428d-9ff1-1499e61a6b1e" />
+
+<img width="1450" height="840" alt="image" src="https://github.com/user-attachments/assets/77d897cd-66f4-437d-ac62-9d0395a109de" />
+
+<img width="1454" height="786" alt="image" src="https://github.com/user-attachments/assets/b8f94968-44a1-4e4d-9e91-2f92e5f600f7" />
+
+<img width="1610" height="808" alt="image" src="https://github.com/user-attachments/assets/58f4ddba-b81e-4de7-bbfb-d8d45d4db012" />
+
+## 5. Salary 
+<img width="1892" height="903" alt="image" src="https://github.com/user-attachments/assets/5cc58bc9-9d3b-4161-a794-18e17f2756ea" />
+
+## 6. Expenses
+<img width="1900" height="904" alt="image" src="https://github.com/user-attachments/assets/a1201b19-7ffb-4d1b-a961-ac38b9bcf967" />
+
+## 7. Budget Planning
+<img width="1888" height="889" alt="image" src="https://github.com/user-attachments/assets/8ae137a4-f5fc-4ca5-a02a-b3bd4b68e3c9" />
+
+## 8. Profile
+<img width="1877" height="877" alt="image" src="https://github.com/user-attachments/assets/c37ca3ba-e4be-4960-8660-7839d186af95" />
+
+## 9. Dark Theme - DashBoard
+<img width="1893" height="908" alt="image" src="https://github.com/user-attachments/assets/f2d793f9-74ac-477a-95cc-a9aa7e572d58" />
 
 ---
 
